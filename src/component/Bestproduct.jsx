@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet-async';
 import { NavLink, useLoaderData } from 'react-router-dom';
 
 const Bestproduct = () => {
@@ -12,6 +13,7 @@ const Bestproduct = () => {
 
     return (
         <div className='mt-28'>
+            <Helmet><title>bestproduct | Gadget Heaven</title></Helmet>
             <div className='bg-fuchsia-600 py-24 text-center'>
                 <div className='max-w-3xl mx-auto space-y-8'>
                     <h1 className='text-white font-bold text-5xl'>Hey, Welcome you are in Our best product</h1>

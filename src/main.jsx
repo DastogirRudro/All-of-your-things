@@ -25,24 +25,24 @@ const router = createBrowserRouter([
      {
       path: "/",
       element: <Home></Home>,
-      loader: () => fetch('../public/category.json'),
+      loader: () => fetch('/category.json'),
       children:[
         {
           path: "/",
           element: <Gadgetcards></Gadgetcards>,
-          loader: () => fetch('../public/gadgetheaven.json')
+          loader: () => fetch('/gadgetheaven.json')
         },
         {
           path: "/categories/:category",
           element: <Gadgetcards></Gadgetcards>,
-          loader: () => fetch('../public/gadgetheaven.json')
+          loader: () => fetch('/gadgetheaven.json')
         },
       ],
      },
      {
       path:"/details/:id",
       element:<Details></Details>,
-      loader: () => fetch('../public/gadgetheaven.json'),
+      loader: () => fetch('/gadgetheaven.json'),
      }, 
      {
       path: "/statistics",
@@ -51,7 +51,7 @@ const router = createBrowserRouter([
      {
       path: "/bestproduct",
       element: <Bestproduct></Bestproduct>,
-      loader: () => fetch('../public/gadgetheaven.json')
+      loader: () => fetch('/gadgetheaven.json')
      },
      {
       path: "/dashboard",
