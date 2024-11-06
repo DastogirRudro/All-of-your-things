@@ -1,0 +1,10 @@
+[
+    { "product_id": 1, "category": "Smartphones" },
+ 
+    { "product_id": 2, "category": "Laptops" },
+   
+    { "product_id": 3, "category": "Headphones" },
+  
+    
+    { "product_id": 4,"category": "Smartwatches" }
+]

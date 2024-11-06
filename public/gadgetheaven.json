@@ -1,0 +1,127 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Smartphone X10",
+        "product_image": "https://i.ibb.co.com/vD4GHZ3/AGp-Ckia-VIu4-Y1bq-Vm-CTx6-Drdw-T9gbi3-Ke29-TLq-Y9t-KY.jpg",
+        "category": "Smartphones",
+        "price": 1500,
+        "description": "A high-end smartphone with advanced features.",
+        "specification": ["6.5-inch display", "128GB storage", "Quad camera"],
+        "availability": true,
+        "rating": 4.5,
+        "warranty": "1 year"
+    },
+    {
+        "product_id": 2,
+        "product_title": "Smartphone Pro Max",
+        "product_image": "https://i.ibb.co.com/FHBrjLt/chico-corporate-blog-1.jpg",
+        "category": "Smartphones",
+        "price": 2000,
+        "description": "Premium smartphone with exceptional performance.",
+        "specification": ["6.7-inch display", "256GB storage", "5G enabled"],
+        "availability": true,
+        "rating": 4.8,
+        "color": "Midnight Black"
+    },
+    {
+        "product_id": 3,
+        "product_title": "Smartphone Lite",
+        "product_image": "https://i.ibb.co.com/F7f7jGP/How-to-Sell-Your-Mobile-and-Get-the-Best-Deal-on-Bikroy-1-780x470.png",
+        "category": "Smartphones",
+        "price": 1200,
+        "description": "Affordable smartphone with essential features.",
+        "specification": ["6.1-inch display", "64GB storage", "Dual camera"],
+        "availability": false,
+        "rating": 4.2,
+        "battery": "4000mAh"
+    },
+    {
+        "product_id": 4,
+        "product_title": "Smartphone Plus",
+        "product_image": "https://i.ibb.co.com/F3fvwpB/S23-new-mp4.webp",
+        "category": "Smartphones",
+        "price": 1800,
+        "description": "A powerful smartphone with a sleek design.",
+        "specification": ["6.3-inch display", "128GB storage", "Triple camera"],
+        "availability": true,
+        "rating": 4.6,
+        "weight": "180g"
+    },
+    {
+        "product_id": 5,
+        "product_title": "Smartphone Ultra",
+        "product_image": "https://i.ibb.co.com/JHhrMqr/smartphone-perspective-view-realistic-vector-illustration-isometric-phone.jpg",
+        "category": "Smartphones",
+        "price": 2200,
+        "description": "Ultimate smartphone with cutting-edge technology.",
+        "specification": ["7.0-inch display", "512GB storage", "Hexa camera"],
+        "availability": true,
+        "rating": 4.9,
+        "processor": "Octa-core"
+    },
+    {
+        "product_id": 6,
+        "product_title": "Smartphone Mini",
+        "product_image": "https://i.ibb.co.com/1MbFm3p/Smartphone-Specifications-Explained-4.webp",
+        "category": "Smartphones",
+        "price": 1300,
+        "description": "Compact smartphone with high performance.",
+        "specification": ["5.5-inch display", "128GB storage", "Dual camera"],
+        "availability": false,
+        "rating": 4.4,
+        "battery": "3000mAh"
+    },
+    {
+        "product_id": 7,
+        "product_title": "Laptop Z Series",
+        "product_image": "https://i.ibb.co.com/tbkN6mp/laptops-2048px-8826.jpg",
+        "category": "Laptops",
+        "price": 2100,
+        "description": "Powerful laptop for professional use.",
+        "specification": ["15.6-inch display", "16GB RAM", "1TB SSD"],
+        "availability": true,
+        "rating": 4.7,
+        "battery_life": "10 hours"
+    },
+    {
+        "product_id": 8,
+        "product_title": "Laptop X Series",
+        "product_image": "https://i.ibb.co.com/dPSt8mX/editing-laptop-2048px-233661.jpg",
+        "category": "Laptops",
+        "price": 1800,
+        "description": "Lightweight laptop for everyday tasks.",
+        "specification": ["13.3-inch display", "8GB RAM", "512GB SSD"],
+        "availability": false,
+        "rating": 4.3,
+        "weight": "1.2kg"
+    },
+    {
+        "product_id": 9,
+        "product_title": "Headphones Pro",
+        "product_image": "https://i.ibb.co.com/44nZ0qh/Fantech-HQ54-Wired-Headphone-Fantech-de929-322054.jpg",
+        "category": "Headphones",
+        "price": 1200,
+        "description": "High-quality over-ear headphones with noise cancellation.",
+        "specification": ["Over-ear", "Bluetooth 5.0", "Active noise cancellation"],
+        "availability": true,
+        "rating": 4.6,
+        "battery_life": "30 hours"
+    },
+    {
+        "product_id": 10,
+        "product_title": "Headphones Lite",
+        "product_image": "https://i.ibb.co.com/m5R46sJ/Hoco-W35-Max-Wireless-Headphone-Black-6635.jpg",
+        "category": "Headphones",
+        "price": 1100,
+        "description": "Comfortable headphones with rich sound quality.",
+        "specification": ["On-ear", "Wired", "20Hz-20kHz frequency response"],
+        "availability": false,
+        "rating": 4.1,
+        "color": "Silver"
+    },
+    {
+        "product_id": 11,
+        "category": "Smartwatches",
+        "product_title": "No data found"
+    }
+]
