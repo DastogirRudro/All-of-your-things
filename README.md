@@ -1,8 +1,16 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Gadget Heaven
+# Live link: 
+# Requirement Link: https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf
+# React Concept
+- React Hook
+- React navlink
+- React Router
+- Component , Props ,State
+- Event Handling , Condational Rendering
+# Local Storage
+# 5 Features
+- Here HTML,Tailwind css, Javascript and Es 6 used
+- This is a Comercial website
+- This website use React Router concept
+- This is an single page website
+- Here, REact Router DOM used 

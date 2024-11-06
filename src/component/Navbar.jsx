@@ -52,11 +52,15 @@ const Navbar = () => {
                         <ul
                             tabIndex={0}
                             className="menu menu-sm dropdown-content mx-4 m-4 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+
                             <li className='text-[#0B0B0BB3]'><NavLink to="/" className={({ isActive }) => isActive ? 'text-gray-900 font-bold border-b-2' : 'text-[#0B0B0BB3]'}>Home</NavLink></li>
 
                             <li className='text-[#0B0B0BB3] mx-4'><NavLink to="/statistics" className={({ isActive }) => isActive ? 'text-gray-900 font-bold border-b-2' : 'text-[#0B0B0BB3]'}>Statistics</NavLink></li>
 
                             <li className='text-[#0B0B0BB3]'><NavLink to="/dashboard" className={({ isActive }) => isActive ? 'text-gray-900 font-bold border-b-2' : 'text-[#0B0B0BB3]'}>Dashboard</NavLink></li>
+
+                            <li className='text-[#0B0B0BB3]'><NavLink to="/bestproduct" className={({ isActive }) => isActive ? 'text-gray-900 font-bold border-b-2' : 'text-[#0B0B0BB3]'}>Dashboard</NavLink></li>
+
                         </ul>
                     </div>
                     <a className="text-2xl font-bold">Gadget Heaven</a>
@@ -69,6 +73,8 @@ const Navbar = () => {
                         <li className='text-[#0B0B0BB3] mx-4'><NavLink to="/statistics" className={({ isActive }) => isActive ? 'text-gray-900 font-bold border-b-2' : 'text-[#0B0B0BB3]'}>Statistics</NavLink></li>
 
                         <li className='text-[#0B0B0BB3]'><NavLink to="/dashboard" className={({ isActive }) => isActive ? 'text-gray-900 font-bold border-b-2' : 'text-[#0B0B0BB3]'}>Dashboard</NavLink></li>
+
+                        <li className='text-[#0B0B0BB3] mx-4'><NavLink to="/bestproduct" className={({ isActive }) => isActive ? 'text-gray-900 font-bold border-b-2' : 'text-[#0B0B0BB3]'}>Best Product</NavLink></li>
 
                     </ul>
                 </div>

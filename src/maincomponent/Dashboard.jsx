@@ -50,11 +50,11 @@ const Dashboard = () => {
             </div>
             <div className='flex max-w-5xl mx-auto my-6 justify-between items-center'>
                 <div>
-                    <h1 className='font-bold text-xl'>Cost</h1>
+                    <h1 className='font-bold text-xl'>Cart/Wishlist</h1>
                 </div>
                 <div className='flex gap-4 justify-between items-center'>
                     <h1 className='font-bold text-xl'>Totall cost: {totalCost}</h1>
-                    <button onClick={handleSortByPrice} className='p-3 px-4 flex rounded-xl border-2 font-semibold border-xl gap-2 items-center border-violet-600'>Sort by Price<TbAdjustments className='text-lg' /></button>
+                    <button onClick={handleSortByPrice} className='p-3 px-4 flex rounded-xl border-2 font-semibold border-xl gap-2 items-center border-violet-600'>Sort by Price Cart<TbAdjustments className='text-lg' /></button>
                     {/* <button className='px-6 p-4 rounded-xl bg-fuchsia-600 text-white font-semibold'>Purchase</button> */}
                     {/* Open the modal using document.getElementById('ID').showModal() method */}
                    

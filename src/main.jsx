@@ -14,6 +14,7 @@ import Gadgetcards from './Gadgetcards.jsx';
 import Details from './maincomponent/Details.jsx';
 import Errorpage from './Errorpage.jsx';
 import { toast } from 'react-toastify';
+import Bestproduct from './component/Bestproduct.jsx';
 
 const router = createBrowserRouter([
   {
@@ -46,6 +47,11 @@ const router = createBrowserRouter([
      {
       path: "/statistics",
       element: <Statistics></Statistics>,
+     },
+     {
+      path: "/bestproduct",
+      element: <Bestproduct></Bestproduct>,
+      loader: () => fetch('../public/gadgetheaven.json')
      },
      {
       path: "/dashboard",
