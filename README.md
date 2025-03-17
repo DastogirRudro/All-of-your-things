@@ -1,4 +1,4 @@
-## Gadget Heaven
+## All your Electric things
 # Live link: https://musical-figolla-b8a3df.netlify.app/
 
 # React Concept
